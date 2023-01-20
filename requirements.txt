@@ -1,4 +1,5 @@
 pandas
+pymongo
 numpy
 scikit-learn
 matplotlib
